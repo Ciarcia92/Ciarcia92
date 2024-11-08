@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Lorenzo</h1>
-<h3 align="center">I am about to graduate as a Junior Full-Stack Developer from Epicode Italia</h3>
+<h3 align="center">I have graduated as a Junior Full-Stack Developer with Epicode Italia</h3>
 
-- 🔭 I’m currently working on **my Capstone project**
+- 🔭 I’m seeking a position as a Java Develeoper 
 
 - 📫 How to reach me **ciarcia92@hotmail.it**
 
